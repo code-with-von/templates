@@ -10,7 +10,7 @@ This repository was created with the main **intention** of sharing:
 
 ## Repository structure:
 
-This is an **important** aspect regarding this aspect. Organizing repositories depends on the one(s) working on that. The initial plan is to share projects individually as in their own **Git** repository, either as a **submodule**, but for that to happen, some considerations are to be **taken**:
+This is an **important** aspect regarding this aspect. Organizing repositories depends on the one(s) working on that. The initial plan is to share projects individually as in their own **Git** repository, either as a **submodule**[^0], but for that to happen, some considerations are to be **taken**:
 
 1. each project **may or not** have their own **submodules/subprojects** (depends on the use-case)
 1. regardless on how **deep** a submodule/project exists in the repository, each one of them has their individual **License**[^1] which should be followed by **the end user** (aka - YOU) for each **shared project**
@@ -150,6 +150,7 @@ This section is still being created and as new templates are created, we'll add 
 </table> -->
 
 
+[^0]: A Submodule is a Git repository that is embedded within another Git repository. It allows you to keep a Git repository as a subdirectory of another Git repository. In other words, it's a self-contained project that can be included in other projects always making references (symlinks) to the last approved commit of that project
 
 [^1]: The **License** attached to each project/submodule **provides** all necessary information how/when/where to really make use of each project provided by this repository and their subprojects
 
