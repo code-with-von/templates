@@ -1,3 +1,6 @@
 [submodule "license-templates"]
 	path = license-templates
 	url = https://github.com/code-with-von/license-templates.git
+[submodule "documentation-strategies"]
+	path = documentation-strategies
+	url = https://github.com/code-with-von/documentation-strategies.git
