@@ -71,7 +71,7 @@ This is an **important** aspect regarding this aspect. Organizing repositories d
   <tbody>
     <tr>
       <th>Repository URL</th>
-      <td colspan="2"><a href='https://github.com/code-with-von/codumentation-strategies'>Documentation Strategies</a></td>
+      <td colspan="2"><a href='https://github.com/code-with-von/documentation-strategies'>Documentation Strategies</a></td>
     </tr>
     <tr>
       <th>Version</th>
@@ -86,7 +86,7 @@ This is an **important** aspect regarding this aspect. Organizing repositories d
       <th colspan="3">Additional Information</th>
     </tr>
     <tr>
-      <td><a href='#'>Fumadocs</a></td>
+      <td><a href='https://github.com/code-with-von/fumadocs-template/tree/main'>Fumadocs</a></td>
       <td>NexJs, React, TailwindCss and MDX flavored syntax (uses Infisical for environment variables and Posthog for analytics) + features a set of additional plugins and custom components</td>
       <td><a href='#'>Deployed project</a></td>
     </tr>
