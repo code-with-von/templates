@@ -12,17 +12,18 @@ This repository was created with the main **intention** of sharing:
 
 This is an **important** aspect regarding this aspect. Organizing repositories depends on the one(s) working on that. The initial plan is to share projects individually as in their own **Git** repository, either as a **submodule**, but for that to happen, some considerations are to be **taken**:
 
-- each project **may or not** have their own **submodules/subprojects** (depends on the use-case)
-- regardless on how **deep** a submodule/project exists in the repository, each one of them has their individual **License**[^1] which should be followed by **the end user** (aka - YOU) for each **shared project**
-- provide both **educational information** and **possible technical resources** (when possible) that can help other fellow developers on their way into learning / creating their own work
-- not to **impose** rules, but to **provide** the rules **I** use on my *day-by-day* work as a developer, which a career that lasts for a bit more  **20years**
-- **keep improving** and **share this improvement** as new resources are added to this project or old resources are updated with new versions or reviews
+1. each project **may or not** have their own **submodules/subprojects** (depends on the use-case)
+1. regardless on how **deep** a submodule/project exists in the repository, each one of them has their individual **License**[^1] which should be followed by **the end user** (aka - YOU) for each **shared project**
+1. this project provides both **educational information** and **possible technical resources** (when possible) that can help other fellow developers on their way into learning / creating / starting their own work (in case they have no starting point or references)
+1. I am not not to **impose** rules, but to **provide** the rules **I** use on my *day-by-day* work as a developer, which a career that lasts for a bit more  **20years**
+1. I vouch for **self-improvement** and this is why I am sharing this project as this will be a constant **WIP** (Work In Progress) project that will be updated with new resources and improvements over time as I continue to learn and grow as a developer
 
-> [!note]
-> ### Considerations about the use of AI:
-> The **use of AI** in this project is restricted to the minimum as it can be (as we are not anymore 100% free of AI interference), but rest assured that most of the times, **AI is not even used** - except as a tool for **code-completion / code-suggestion**.
+> [!important]
+> #### Considerations about the use of AI:
+> The **use of AI** in this project **was** (until now), **is** and **will always be** restricted to the **minimum as it can be** (remember that to the **current date**  are not anymore 100% free of AI interference, but with desire to learn we do our best to **use it as least as possible**)
+> Rest assured that **Ai** was only used here as a **code-completion / code-suggestion** tool.
 >
-> The goal of this project is to **share the knowledge** and **usable resources**, in all possible levels, about everything I had gathered through years of experience.
+> The goal of this project is to **share the knowledge** and **usable resources**, in all possible levels, about everything I had gathered through years of experience, in a **way that the ones accessing this project can learn and grow from it** and not just **copy-paste code** or **create AI-generated content out of it**.
 
 ---
 
