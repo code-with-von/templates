@@ -150,7 +150,7 @@ This section is still being created and as new templates are created, we'll add 
 </table> -->
 
 
-[^0]: A Submodule is a Git repository that is embedded within another Git repository. It allows you to keep a Git repository as a subdirectory of another Git repository and work on it independently of the parent repository. In other words, it's a self-contained project that can be included in other projects always making references (symlinks) to the last approved commit of that project
+[^0]: A Submodule is a Git repository that is embedded within another Git repository. It allows you to keep a Git repository as a subdirectory (child repository) of another Git repository (parent repository) and work on it independently of the parent repository. In other words, it's a self-contained project that can be included in other projects always making references (symlinks) to the last approved commit of that project
 
 [^1]: The **License** attached to each project/submodule **provides** all necessary information how/when/where to really make use of each project provided by this repository and their subprojects
 
